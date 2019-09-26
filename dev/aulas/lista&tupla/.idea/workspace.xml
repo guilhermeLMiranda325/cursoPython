@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ed30576-9535-4bb2-80e9-8a5fc3dcf527" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/exemplo_pratico_operador_in.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/lista&amp;tupla.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/lista&amp;tupla.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -104,6 +101,14 @@
       <option name="presentableId" value="Default" />
       <updated>1567555018783</updated>
     </task>
+    <task id="LOCAL-00001" summary="Aulas de Lista e Tupla.">
+      <created>1568637379296</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1568637379296</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -118,5 +123,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Aulas de Lista e Tupla." />
+    <option name="LAST_COMMIT_MESSAGE" value="Aulas de Lista e Tupla." />
   </component>
 </project>
